@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mascomen4
-- 👀 I’m interested in Computer Vision and Computer Graphics
+- 👀 I’m interested in Mathematics + Parallel Computations + Computer Vision. 
 - 🌱 I’m currently learning Multiple View Geometry, Triangulation, PnP (Outer Camera Calibration)
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
